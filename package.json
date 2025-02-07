@@ -1,0 +1,21 @@
+{
+  "name": "contackbook-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Minh Le",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "eslint": "^9.19.0",
+    "eslint-config-prettier": "^10.0.1",
+    "nodemon": "^3.1.9",
+    "prettier": "^3.4.2"
+  }
+}
